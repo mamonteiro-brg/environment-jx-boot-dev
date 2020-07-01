@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jx-boot/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: manuel.monteiro@gmail.com
+  token: local:jx-boot/pipelineUser:token
+  username: mamonteiro-brg
+prow:
+  hmacToken: local:jx-boot/prow:hmacToken
